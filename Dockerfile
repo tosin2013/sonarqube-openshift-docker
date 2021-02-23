@@ -4,7 +4,7 @@ MAINTAINER Erik Jacobs <erikmjacobs@gmail.com>
 MAINTAINER Siamak Sadeghianfar <siamaksade@gmail.com>
 MAINTAINER Tosin  Akinosho <tosin.akinosho@gmail.com>
 
-ENV SONAR_VERSION=8.3.1.34397 \
+ENV SONAR_VERSION=8.7.0.41497 \
     SONARQUBE_HOME=/opt/sonarqube \
     SONARQUBE_JDBC_USERNAME=sonar \
     SONARQUBE_JDBC_PASSWORD=sonar \
